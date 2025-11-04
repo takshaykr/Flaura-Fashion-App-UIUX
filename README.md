@@ -1,5 +1,3 @@
----
-
 # 👗 **Flaura – Fashion E-commerce App (UI/UX Design)**
 
 **Flaura** is a modern **fashion e-commerce mobile app concept** that brings style and simplicity together.
