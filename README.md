@@ -8,7 +8,7 @@ Designed entirely in **Figma**, it focuses on delivering a smooth, premium, and 
 ## 🎨 **Design Tool**
 
 * **Figma**
-* [👉 View Full Design on Figma](https://www.figma.com/file/your-figma-link-here)
+* [👉 View Full Design on Figma]([https://www.figma.com/file/your-figma-link-here](https://www.figma.com/design/6Wc3rz5U4AYnHfL5cTOTCI/Flaura?node-id=0-1&t=13jvoSAoE655BsxR-1))
 
 ---
 
